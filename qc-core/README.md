@@ -52,5 +52,5 @@ QC supports the following LLM providers natively:
 - Google Gemini
 - xAI
 
-Additionally, Rig currently has the following integration sub-libraries:
+Additionally, QC currently has the following integration sub-libraries:
 - MongoDB vector store: `QC-mongodb`
