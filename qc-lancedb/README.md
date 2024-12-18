@@ -14,8 +14,8 @@
 
 <br><br> -->
 
-## Rig-Lancedb
-This companion crate implements a Rig vector store based on Lancedb.
+## QC-Lancedb
+This companion crate implements a QC vector store based on Lancedb.
 
 ## Usage
 
@@ -23,10 +23,10 @@ Add the companion crate to your `Cargo.toml`, along with the rig-core crate:
 
 ```toml
 [dependencies]
-rig-lancedb = "0.1.0"
-rig-core = "0.4.0"
+qc-lancedb = "0.1.0"
+qc-core = "0.4.0"
 ```
 
-You can also run `cargo add rig-lancedb rig-core` to add the most recent versions of the dependencies to your project.
+You can also run `cargo add qc-lancedb rig-core` to add the most recent versions of the dependencies to your project.
 
 See the [`/examples`](./examples) folder for usage examples.
